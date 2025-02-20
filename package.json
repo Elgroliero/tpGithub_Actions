@@ -1,0 +1,23 @@
+{
+  "name": "tpgithub_actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elgroliero/Tp-GithubActions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elgroliero/Tp-GithubActions/issues"
+  },
+  "homepage": "https://github.com/Elgroliero/Tp-GithubActions#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
